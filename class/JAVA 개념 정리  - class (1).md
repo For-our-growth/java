@@ -83,7 +83,7 @@ TCPschool.com 참고
 ![스포츠카](http://tcpschool.com/lectures/img_java_sports_car.png)
 
 
- 
+
 
 **필드(field)**
 
@@ -96,7 +96,7 @@ TCPschool.com 참고
 \- car.maxSpeed = 350
 
  
- 
+
 
 **메소드(method)**
 
